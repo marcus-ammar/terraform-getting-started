@@ -35,3 +35,6 @@ out/
 .idea/vcs.xml
 .idea/assetWizard.xml
 .idea/compiler.xml
+
+# MacOS system files
+.DS_Store
