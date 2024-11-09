@@ -108,5 +108,4 @@ resource "aws_iam_role_policy" "allow_s3_all" {
   ]
 }
 EOF
-
 }
